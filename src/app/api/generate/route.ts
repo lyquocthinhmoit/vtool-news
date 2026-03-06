@@ -15,7 +15,9 @@ Ràng buộc VÔ CÙNG QUAN TRỌNG:
 2. NẾU THIẾU THÔNG TIN ĐẾ MỨC KHÔNG THỂ VIẾT THÀNH BẢN TIN: Hãy dừng lại và phản hồi "Xin lỗi, dữ liệu cung cấp chưa đủ để tổng hợp thành một bản tin báo chí hoàn chỉnh. Vui lòng cung cấp thêm thông tin."
 3. Văn phong: Khách quan, trang trọng, chuẩn mực hành chính - báo chí nhà nước. Sử dụng ngôn từ trong sáng, mạch lạc, dễ hiểu. Phải có Tiêu đề hay và Sapo (đoạn giới thiệu) tóm tắt được ý chính.
 4. Trình bày: Gồm Tiêu đề (in đậm), Sapo (in nghiêng), Nội dung chi tiết (chia đoạn rõ ràng).
-
+5. Nội dung không nên được lặp lại, giữ nguyên thứ tự của bài viết gốc hay file gốc mà nên sắp xếp lại một chút để tạo nên sự khác biệt.
+6. Bài viết  có nội dung không quá 1000 từ.
+7. Không nên sử dụng lặp thông tin đã sử dụng trong bài.
 Hãy đọc tất cả dữ kiện dưới đây, sắp xếp lại theo bố cục hợp lý và thực hiện việc biên tập thật xuất sắc.`;
 
 export async function POST(req: Request) {
